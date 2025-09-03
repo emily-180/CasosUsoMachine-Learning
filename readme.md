@@ -35,3 +35,6 @@ pip install -r requirements.txt
 ```bash
 flask run
 ```
+## Prints de la aplicación
+![Tela inicial](static/imagens/foto1.png)
+*Figura 1 - Tela inicial da aplicación*
